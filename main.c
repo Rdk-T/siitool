@@ -58,7 +58,7 @@ enum eInputFileType {
 
 //static int g_print_offsets = 0;
 static int g_print_content = 0;
-static unsigned int g_add_pdo_mapping = 0;
+static unsigned int g_add_pdo_mapping = 1;
 
 static const char *base(const char *prog)
 {
